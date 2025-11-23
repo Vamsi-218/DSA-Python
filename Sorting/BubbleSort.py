@@ -1,5 +1,10 @@
 ## Implementation of Bubble Sort
+
+# Stable Algo
+# Inplace Algo
+# Comparison - Based
 ## Time complexity: O(n^2)
+
 ## Method implementation
 def bubbleSort(arr):
     n = len(arr)
@@ -17,7 +22,7 @@ result = bubbleSort(arr)
 print("Array after using bubble sort is:", result)
 
 
-# Optimised::
+# Optimised:: Takes O(N) If array is already sorted
 def bubbleSortOpt(arr):
     n = len(arr)
     for i in range(n):
