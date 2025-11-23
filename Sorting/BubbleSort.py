@@ -1,3 +1,6 @@
+# IDEA:: 
+# Larger element bubbles-up to end of list during each pass by just comparing with adjacent element
+
 ## Implementation of Bubble Sort
 
 # Stable Algo
